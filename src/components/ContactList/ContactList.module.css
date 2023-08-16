@@ -1,0 +1,16 @@
+.listContainer {
+  display: flex;
+  gap: 12px;
+  flex-direction: column;
+
+  width: 300px;
+  padding: 40px;
+
+  border-radius: 25px;
+  background-color: #a3a7f4;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+span {
+  margin-left: 15px;
+}

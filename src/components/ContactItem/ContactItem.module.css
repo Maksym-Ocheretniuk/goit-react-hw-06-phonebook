@@ -1,0 +1,30 @@
+.listItem {
+  color: rgb(77, 116, 27);
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+}
+
+.listBtn {
+  font-size: 12px;
+  font-weight: 600;
+  align-self: center;
+
+  width: 60px;
+  height: 30px;
+
+  color: #370a4b;
+  background-color: #ecbaba;
+
+  border-radius: 25px;
+  background-color: #a3a7f4;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 1px;
+
+  cursor: pointer;
+}
+
+.listBtn:hover,
+.listBtn:focus {
+  color: aqua;
+  background-color: #dd4d25;
+}

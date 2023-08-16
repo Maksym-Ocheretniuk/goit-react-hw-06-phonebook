@@ -1,0 +1,16 @@
+body {
+  color: #051a3c;
+  background-color: #f0c6c6;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
